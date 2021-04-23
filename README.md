@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nape-000
+- 👀 I’m interested in ...Python, Django and all things related to web development
+- 🌱 I’m currently learning ... Web Sockets
